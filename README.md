@@ -7,7 +7,7 @@
 </p>
 
 - 🔭 I’m currently working on becoming an [AWS Certified Developer](https://aws.amazon.com/certification/certified-developer-associate/)
-- 💬 Ask me about JavaScript, [Angular](https://angular.io/), and [AWS](https://aws.amazon.com/)
+- 💬 Ask me about JavaScript, web applications, [Angular](https://angular.io/), and [AWS](https://aws.amazon.com/)
 - 🌱 I’m currently learning [RxJs](https://rxjs-dev.firebaseapp.com/) and [React](https://reactjs.org/)
 
 
