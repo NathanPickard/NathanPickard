@@ -10,7 +10,9 @@
 - 💬 Ask me about JavaScript, web applications, [Angular](https://angular.io/), and [AWS](https://aws.amazon.com/)
 - 🌱 I’m currently learning [RxJs](https://rxjs-dev.firebaseapp.com/) and [React](https://reactjs.org/)
 
-
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **NathanPickard/NathanPickard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
