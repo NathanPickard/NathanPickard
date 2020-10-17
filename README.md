@@ -1,18 +1,29 @@
-## Hi, I'm Nathan 👋
-<p align="center">
-  <a href="https://github.com/NathanPickard"><img src="https://img.shields.io/github/followers/NathanPickard.svg?label=GitHub&style=social" alt="GitHub"></a>
-  <a href="https://twitter.com/NathanPickard"><img src="https://img.shields.io/twitter/follow/NathanPickard?style=social" alt="Twitter"></a>
-  <a href="https://www.linkedin.com/in/nathanpickard/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://nathanpickard.wordpress.com/"><img src="https://img.shields.io/badge/Blog--_.svg?style=social&logo=wordpress" alt="Blog"></a>
-</p>
+<h1 align="center">Hi 👋, I'm Nathan Pickard</h1>
+<h3 align="center">A web developer from Portland, Oregon</h3>
+
+<p align="left"> <a href="https://twitter.com/nathanpickard" target="blank"><img src="https://img.shields.io/twitter/follow/nathanpickard?logo=twitter&style=for-the-badge" alt="nathanpickard" /></a> </p>
 
 - 🔭 I’m currently working on becoming an [AWS Certified Developer](https://aws.amazon.com/certification/certified-developer-associate/)
-- 💬 Ask me about JavaScript, web applications, [Angular](https://angular.io/), and [AWS](https://aws.amazon.com/)
-- 🌱 I’m currently learning [RxJs](https://rxjs-dev.firebaseapp.com/) and [React](https://reactjs.org/)
 
-# Blog posts
+- 🌱 I’m currently learning **RxJs, Scully**
+
+- 💬 Ask me about **JavaScript/TypeScript, Angular, and AWS**
+
+- ⚡ Fun fact: coffee and BBQ enthusiast ☕️ 🍖 
+
+### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<p align="left">
+<h3 align="left">Connect with me:</h3>
+<a href="https://dev.to/https://dev.to/nathanpickard" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/nathanpickard" height="30" width="40" /></a>
+<a href="https://twitter.com/nathanpickard" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nathanpickard" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nathanpickard" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nathanpickard" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scully.io/" target="_blank"> <img src="https://raw.githubusercontent.com/scullyio/scully/main/assets/logos/SVG/scullyio-icon.svg" alt="scully" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 <!--
 **NathanPickard/NathanPickard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
