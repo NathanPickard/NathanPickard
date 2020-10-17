@@ -12,6 +12,8 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Quick Release Creator - GitHub Action](https://dev.to/nathanpickard/quick-release-creator-github-action-1c08)
+- [Let’s use Angular Console!](https://dev.to/nathanpickard/let-s-use-angular-console-4nof)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
