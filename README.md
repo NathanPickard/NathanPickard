@@ -3,9 +3,9 @@
 
 <p align="center"> <a href="https://twitter.com/nathanpickard" target="blank"><img src="https://img.shields.io/twitter/follow/nathanpickard?logo=twitter&style=for-the-badge" alt="nathanpickard" /></a> </p>
 
-- 🔭 I’m currently working on becoming an [AWS Certified Developer](https://aws.amazon.com/certification/certified-developer-associate/)
+- 🔭 I’m currently working on becoming an **[AWS Certified Developer](https://aws.amazon.com/certification/certified-developer-associate/)**
 
-- 🌱 I’m currently learning **RxJs, Scully**
+- 🌱 I’m currently learning **[RxJs](https://rxjs-dev.firebaseapp.com/), [Scully](https://scully.io/)**
 
 - 💬 Ask me about **JavaScript/TypeScript, Angular, and AWS**
 
