@@ -22,9 +22,10 @@
 
 <p align="center">
 <h3 align="left">Connect with me:</h3>
-<a href="https://dev.to/https://dev.to/nathanpickard" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/nathanpickard" height="30" width="40" /></a>
 <a href="https://twitter.com/nathanpickard" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nathanpickard" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nathanpickard" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nathanpickard" height="30" width="40" /></a>
+<a href="https://dev.to/nathanpickard" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/nathanpickard" height="30" width="40" /></a>
+
 </p>
 
 <!--
