@@ -3,9 +3,9 @@
 
 <p align="center"> <a href="https://twitter.com/nathanpickard" target="blank"><img src="https://img.shields.io/twitter/follow/nathanpickard?logo=twitter&style=for-the-badge" alt="nathanpickard" /></a> </p>
 
-- 🔭 I’m currently working on becoming an [AWS Certified Developer](https://aws.amazon.com/certification/certified-developer-associate/)
+- 🔭 I’m currently working on becoming an **[AWS Certified Developer](https://aws.amazon.com/certification/certified-developer-associate/)**
 
-- 🌱 I’m currently learning **RxJs, Scully**
+- 🌱 I’m currently learning **[RxJs](https://rxjs-dev.firebaseapp.com/), [Scully](https://scully.io/)**
 
 - 💬 Ask me about **JavaScript/TypeScript, Angular, and AWS**
 
@@ -22,9 +22,10 @@
 
 <p align="center">
 <h3 align="left">Connect with me:</h3>
-<a href="https://dev.to/https://dev.to/nathanpickard" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/nathanpickard" height="30" width="40" /></a>
-<a href="https://twitter.com/nathanpickard" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nathanpickard" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nathanpickard" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nathanpickard" height="30" width="40" /></a>
+<a href="https://twitter.com/nathanpickard" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nathanpickard" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nathanpickard" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nathanpickard" height="30" width="40" /></a>
+<a href="https://dev.to/nathanpickard" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/nathanpickard" height="30" width="40" /></a>
+
 </p>
 
 <!--
