@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nathan Pickard 👋</h1>
-<h3 align="center">Web developer from Portland, Oregon</h3>
+<h3 align="center">Software Engineer from Portland, Oregon</h3>
 
 <p align="center"> <a href="https://twitter.com/nathanpickard" target="blank"><img src="https://img.shields.io/twitter/follow/nathanpickard?logo=twitter&style=for-the-badge" alt="nathanpickard" /></a> </p>
 
