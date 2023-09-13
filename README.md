@@ -2,12 +2,12 @@
 <h3 align="center">Software Engineer from Portland, Oregon</h3>
 
 <p align="center">
-  <a href="https://twitter.com/nathanpickard" target="_blank"><img src="https://img.shields.io/twitter/follow/nathanpickard?logo=x&style=for-the-badge" alt="nathanpickard" /></a>
+  <a href="https://twitter.com/nathanpickard" target="_blank"><img src="https://img.shields.io/twitter/follow/nathanpickard?style=for-the-badge&logo=x&labelColor=black&color=black" alt="nathanpickard" /></a>
 </p>
 
 💬 Ask me about **JavaScript/TypeScript, Angular, and AWS**
 
-⚡ Fun fact: coffee and BBQ enthusiast ☕️ 🍖 
+⚡ Fun fact: coffee and BBQ enthusiast ☕️ 🍖
 
 <h3 align="left">Languages and tools I use:</h3>
 <p align="left">
