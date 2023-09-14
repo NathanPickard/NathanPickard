@@ -20,7 +20,7 @@
   <h3 align="left">Connect with me:</h3>
   <a href="https://twitter.com/nathanpickard" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/x.svg" alt="Nathan Pickard - Twitter" height="30" width="42" /></a>
   <a href="https://linkedin.com/in/nathanpickard" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/linkedin.svg" alt="Nathan Pickard - LinkedIn" height="30" width="42" /></a>
-  <a href="https://dev.to/nathanpickard" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Nathan Pickard - Dev.to" height="30" width="42" /></a>
+<!--   <a href="https://dev.to/nathanpickard" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Nathan Pickard - Dev.to" height="30" width="42" /></a> -->
 </p>
 
 <br />
