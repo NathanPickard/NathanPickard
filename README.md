@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Nathan Pickard 👋</h1>
 <h3 align="center">Software Engineer based in Portland, Oregon</h3>
 
-<p align="center">
-  <a href="https://twitter.com/nathanpickard" target="_blank"><img src="https://img.shields.io/twitter/follow/nathanpickard?style=for-the-badge&logo=x&labelColor=black&color=black" alt="Nathan Pickard" /></a>
-</p>
-
 <h3 align="left">Languages and tools I use:</h3>
 <p align="left">
   <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="68" height="60"/></a> -->
@@ -18,14 +14,15 @@
   <a href="https://aws.amazon.com/amplify/" target="_blank"> <img align="center" src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="70" height="70"/></a>
 </p>
 
-<p align="center">
-  <h3 align="left">Connect with me:</h3>
+<!-- <p align="center"> -->
+  <!-- <h3 align="left">Connect with me:</h3> -->
   <!-- <a href="https://twitter.com/nathanpickard" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/x.svg" alt="Nathan Pickard - Twitter" height="30" width="42" /></a> -->
   <!-- <a href="https://linkedin.com/in/nathanpickard" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@9.14.0/icons/linkedin.svg" alt="Nathan Pickard - LinkedIn" height="30" width="42" /></a> -->
-  <a href="https://twitter.com/nathanpickard" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="Nathan Pickard - Twitter" height="40" width="40" /></a>
-  <a href="https://linkedin.com/in/nathanpickard" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Nathan Pickard - LinkedIn" height="40" width="40" /></a>
+  <!-- <a href="https://twitter.com/nathanpickard" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="Nathan Pickard - Twitter" height="40" width="40" /></a> -->
+  <!-- <a href="https://linkedin.com/in/nathanpickard" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Nathan Pickard - LinkedIn" height="40" width="40" /></a> -->
 <!--   <a href="https://dev.to/nathanpickard" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Nathan Pickard - Dev.to" height="30" width="42" /></a> -->
-</p>
+<!-- </p> -->
+
 
 <br />
 
