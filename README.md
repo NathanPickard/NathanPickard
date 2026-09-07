@@ -37,7 +37,7 @@
 <br />
 
 <!-- ⚡ Fun fact: Coffee and BBQ enthusiast ☕️ 🍖 -->
-⚡ Fun fact about me: *Coffee and BBQ enthusiast*
+⚡ *Coffee and BBQ enthusiast*
 
 <!--
 **NathanPickard/NathanPickard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
