@@ -23,7 +23,7 @@
 <!--   <a href="https://dev.to/nathanpickard" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Nathan Pickard - Dev.to" height="30" width="42" /></a> -->
 <!-- </p> -->
 
-<h3 align="left">Languages and tools I use:</h3>
+<h3 align="left">Languages and tools I use</h3>
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -31,8 +31,6 @@
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)](https://nodejs.org)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)](https://aws.amazon.com)
-[![Amplify](https://img.shields.io/badge/Amplify-FF9900?logo=awsamplify&logoColor=white)](https://aws.amazon.com/amplify/)
-
 
 ### Latest blog post
 <!-- BLOG-POST-LIST:START -->
