@@ -43,7 +43,8 @@
 [Read more →](https://nathanpickard.com/blog/claude-code-hackathon-march-2026/)
 
 ### Latest blog post
-<!-- BLOG-POST-LIST:START -->[Engineer-Led, AI-Assisted: A Practical Workflow for Building Software](https://nathanpickard.com/blog/engineer-led-ai-assisted-workflow/) - An intentional workflow for building software with AI tools: planning, developing, testing, code review, and context management. 
+<!-- BLOG-POST-LIST:START -->
+[Engineer-Led, AI-Assisted: A Practical Workflow for Building Software](https://nathanpickard.com/blog/engineer-led-ai-assisted-workflow/) - An intentional workflow for building software with AI tools: planning, developing, testing, code review, and context management. 
 <!-- BLOG-POST-LIST:END -->
 
 <br />
