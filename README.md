@@ -42,6 +42,10 @@
 
 [Read more →](https://nathanpickard.com/blog/claude-code-hackathon-march-2026/)
 
+### Latest blog post
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <br />
 
 <!-- ⚡ Fun fact: Coffee and BBQ enthusiast ☕️ 🍖 -->
