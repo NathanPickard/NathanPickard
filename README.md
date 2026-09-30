@@ -34,14 +34,6 @@
 [![Amplify](https://img.shields.io/badge/Amplify-FF9900?logo=awsamplify&logoColor=white)](https://aws.amazon.com/amplify/)
 
 
-<h3 align="left">Latest blog post:</h3>
-
-📝 [**Claude Code Hackathon**](https://nathanpickard.com/blog/claude-code-hackathon-march-2026/)
-
-> Had a fantastic experience at my first hackathon of the year at Claude Code Portland! In two and a half hours, I built CodeReel: a VS Code extension that uses Claude AI to generate animated, step-by-step explanations of how your code works, directly inside your editor without all the context switching.
-
-[Read more →](https://nathanpickard.com/blog/claude-code-hackathon-march-2026/)
-
 ### Latest blog post
 <!-- BLOG-POST-LIST:START -->
 [Engineer-Led, AI-Assisted: A Practical Workflow for Building Software](https://nathanpickard.com/blog/engineer-led-ai-assisted-workflow/) - An intentional workflow for building software with AI tools: planning, developing, testing, code review, and context management. 
